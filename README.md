@@ -1,5 +1,6 @@
 # bookkeeper
 
+**项目现在还不能开源，等比赛过了之后会进行开源(灬ꈍ ꈍ灬)**
 ## Project setup
 ```
 npm install
